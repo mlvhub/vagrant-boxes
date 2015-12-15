@@ -1,0 +1,8 @@
+tmp/
+cookbooks/
+.vagrant/
+deps/
+_build/
+node_modules/
+*.lock
+*.swp
